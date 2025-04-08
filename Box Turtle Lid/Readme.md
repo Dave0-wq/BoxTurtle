@@ -1,22 +1,25 @@
-Box Turtle Lid by Boothy | BT-012 | BT-035 on teh Armored Turtle Discord. 
+Box Turtle Lid by Boothy | BT-012 | BT-035 on the Armored Turtle Discord. 
 
-ere are the BOM and instructions he provided in Discord. 
+![BT_Lid2](https://github.com/user-attachments/assets/9a4dc1ae-0830-4038-8bc5-0be676a226d3)
+
+Here is the BOM and instructions he provided in Discord. 
 
 BOM
-3mm thick circular acrylic disc 220 diameter  x 2 (I have created and saved in the folder a laser template for the sides to be cut from larger sheet of 3mm Acrylic. )
-1.5mm thick PETG sheet 533 x 384 (this must be PETG to achieve the bend radius)
-M3 Heat Sets x 60
-M3 x 8mm Bolt x 18
-M3 x 12mm Bolt x 28
-M3 x 10mm Bolt x 16
+ - 3mm thick circular acrylic disc 220 diameter  x 2
+     -I have created and saved in the folder a laser template for the sides to be cut from larger sheet of 3mm Acrylic. 
+ - 1.5mm thick PETG sheet 533 x 384 (this must be PETG to achieve the bend radius)
+ - M3 Heat Sets x 60
+ - M3 x 8mm Bolt x 18
+ - M3 x 12mm Bolt x 28
+ - M3 x 10mm Bolt x 16
 
 This is a 3D printed Lid for the Stock Box Turtle with 4 lanes.
-![BT_Lid2](https://github.com/user-attachments/assets/9a4dc1ae-0830-4038-8bc5-0be676a226d3)
 
 ![BT_Lid1](https://github.com/user-attachments/assets/d0dbed9e-4441-4089-9ec4-032fde8c7306)
 
 The parts have been split to accommodate a 250 build plate.
-The canopy is created from a single flat sheet of PETG which is formed with no heat into shape by the end gables. I have revised the end gable design to put less stress on the PETG canopy, please see this thread: ⁠user-mods⁠3D Printed Top Hat\Lid for the…
+The canopy is created from a single flat sheet of PETG which is formed with no heat into shape by the end gables. 
+    I have revised the end gable design to put less stress on the PETG canopy, please see this Armored Turtle discord thread: ⁠user-mods⁠3D Printed Top Hat\Lid for the stock BT.
 The gable end windows are made out of 3mm thick. Acrylic discs which have a flat cut off them. I have included a marking jig to mark off the end panels.
 I have included supports where required, they are coloured green in the CAD.
 I have also included 2 versions of the cross members for either the stock or euro style extrusion profiles.
