@@ -11,8 +11,9 @@ M3 x 12mm Bolt x 28
 M3 x 10mm Bolt x 16
 
 This is a 3D printed Lid for the Stock Box Turtle with 4 lanes.
+![BT_Lid2](https://github.com/user-attachments/assets/9a4dc1ae-0830-4038-8bc5-0be676a226d3)
 
-![TH_Stock1](https://github.com/user-attachments/assets/70ecaf5f-eb56-44d8-be2c-47832ef5d781)
+![BT_Lid1](https://github.com/user-attachments/assets/d0dbed9e-4441-4089-9ec4-032fde8c7306)
 
 The parts have been split to accommodate a 250 build plate.
 The canopy is created from a single flat sheet of PETG which is formed with no heat into shape by the end gables. I have revised the end gable design to put less stress on the PETG canopy, please see this thread: ⁠user-mods⁠3D Printed Top Hat\Lid for the…
@@ -22,6 +23,9 @@ I have also included 2 versions of the cross members for either the stock or eur
 An additional slightly modified corner post to match the chamfer detail of the End Gables, this is symmetrical and a direct swap for the stock corner post.
 
 Assemble the inner liners (orange parts & the cross members to form a frame. Leave the inner and outer parts of the cross members loose to allow easy insertion of the PETG sheet.
+
+![TH_Stock1](https://github.com/user-attachments/assets/70ecaf5f-eb56-44d8-be2c-47832ef5d781)
+
 Insert the PETG sheet into the rear slot until it bottoms.
 Bend the sheet over the orange formers and insert the front of the sheet into the front slot.
 Fix the End Gable frames (red) to the inner frames (orange), fixing from the inside.
